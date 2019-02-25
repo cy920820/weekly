@@ -1,4 +1,4 @@
-# 2019-weekly
+# weekly
 
 ![2019](/media/2019-happy.jpg)
 
